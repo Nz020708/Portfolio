@@ -1,0 +1,61 @@
+ .header{
+   background-color: rgb(42, 40, 40);
+   padding: 1%;
+ }
+ .header a{
+     color: gray;
+     font-style: oblique;
+ }
+ p{
+     position: absolute;
+     display: inline-block;
+ }
+ 
+ .child{
+     display:inline-block;
+ }
+ .pic1{
+   text-align: justify;
+   margin: 65px;
+}
+ .pic1 img{
+   width: 40% ;
+   height: 40%; 
+ }
+ .pic2{
+    text-align: justify;
+    position: absolute;
+    bottom: 20%;
+    left: 40%;
+    margin-left: 130px;
+ }
+ .pic2 img{
+    display: block;
+    width: 70% ;
+    height: 70%;
+  }
+  .pic3{
+   text-align: justify;
+   position: absolute;
+  }
+  .pic3 img{
+    margin: 0;  
+    width: 40% ;
+    height: 40%; 
+    margin-left: 65px;
+  }
+  .pic4{
+    text-align: justify;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    margin-left: 130px;
+    margin-top: 5%; 
+
+ }
+ .pic4 img{
+    display: block;
+    width: 70% ;
+    height: 70%;
+ }
+ 
